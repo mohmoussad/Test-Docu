@@ -1,0 +1,20 @@
+root:
+  title: Quick start
+  docPath: src/Quick-start.md
+
+capabilities:
+  title: Capabilities
+  children:
+    - title: cap1
+      docPath: src/cap1.md
+    - title: cap2
+      docPath: src/cap2.md
+
+support:
+  title: Support
+  docPath: src/support-root.md
+  children:
+    - title: support1
+      docPath: src/support1.md
+    - title: support2
+      docPath: src/support2.md
